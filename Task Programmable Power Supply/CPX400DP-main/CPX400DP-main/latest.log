@@ -1,0 +1,7 @@
+2024-05-14 12:58:21.720 DEBUG: CPX400DP: Connected to "COM10" with speed "9600".
+2024-05-14 12:58:21.720 DEBUG: Attempting to load Excel file.
+2024-05-14 12:58:21.732 DEBUG: Channel 1 state from Excel: Off, Channel 2 state from Excel: On
+2024-05-14 12:58:21.732 DEBUG: CPX400DP COM10: Disabled channel 1.
+2024-05-14 12:58:21.735 DEBUG: CPX400DP COM10: Enabled channel 2.
+2024-05-14 12:58:21.735 INFO: Power supply states updated from Excel.
+2024-05-14 12:58:21.735 ERROR: Invalid duration value in Excel: 7. Please enter a valid number.

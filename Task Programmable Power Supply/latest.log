@@ -1,0 +1,6 @@
+2024-04-30 08:44:58.361 DEBUG: CPX400DP: Connected to "COM10" with speed "9600".
+2024-04-30 08:44:58.361 DEBUG: Attempting to load Excel file.
+2024-04-30 08:44:58.371 DEBUG: Channel 1 state from Excel: On, Channel 2 state from Excel: Off
+2024-04-30 08:44:58.371 DEBUG: CPX400DP COM10: Enabled channel 1.
+2024-04-30 08:44:58.372 DEBUG: CPX400DP COM10: Disabled channel 2.
+2024-04-30 08:44:58.372 INFO: Power supply states updated from Excel.
